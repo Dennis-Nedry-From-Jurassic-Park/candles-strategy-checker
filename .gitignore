@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+/build/asset-manifest.json
+/.idea/candles-strategy-checker.iml
+/build/index.html
+/.idea/sonarlint/issuestore/index.pb
+/build/static/js/main.c4c088e4.js
+/.idea/modules.xml
+/.idea/misc.xml
+/build/static/js/main.c4c088e4.js.map
+/.idea/.gitignore
