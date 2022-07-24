@@ -111,3 +111,5 @@ dist
 /.idea/misc.xml
 /build/static/js/main.c4c088e4.js.map
 /.idea/.gitignore
+/build/
+/.idea/
